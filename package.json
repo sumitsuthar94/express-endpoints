@@ -1,0 +1,31 @@
+{
+  "name": "express-endpoint",
+  "version": "1.0.0",
+  "description": "Express API endpoint parser to list all available routes in web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitsuthar94/express-endpoints.git"
+  },
+  "keywords": [
+    "express",
+    "express-router",
+    "express-endpoints",
+    "api-endpoints",
+    "routes",
+    "express all apis",
+    "express routes",
+    "express api endpoints"
+
+  ],
+  "author": "Sumit Suthar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumitsuthar94/express-endpoints/issues"
+  },
+  "homepage": "https://github.com/sumitsuthar94/express-endpoints#readme",
+  "dependencies": {}
+}
